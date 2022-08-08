@@ -1,1 +1,1 @@
-# video-conferencing-application-for-our-college
+# chat-application-for-our-college
